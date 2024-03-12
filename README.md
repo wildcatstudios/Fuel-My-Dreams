@@ -51,3 +51,5 @@ Unlimited Everything
 - No ADS on your profile page
 - Platinum Badge for authority
 - No ADS while logged in
+
+  <a href="https://wildcatstudio.us/" target="_blank"><img src="https://wildcatstudio.us/upload/social.jpg" alt="Free Bio Link" class="github"></a>
