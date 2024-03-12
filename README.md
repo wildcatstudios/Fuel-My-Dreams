@@ -1,5 +1,11 @@
 ## Fuel My Dreams: Do What You Love While Earning Money
+You can find our platform by [Clicking Here](https://fuelmydreams.online/) to visit
+
  The go to platform for accepting fan memberships, donations and sales social people! If you have any question or need help with anything please, feel free to check out our [Wiki](https://github.com/wildcatstudios/Fuel-My-Dreams/wiki) or [Discussion](https://github.com/wildcatstudios/Fuel-My-Dreams/discussions/1) page for more details. If you would like to help support out work in what we do you can check out our profile on our own platform [here](https://fuelmydreams.online/wildcatstudio)!
+
+### Download from the google play store
+<a href="https://play.google.com/store/apps/details?id=work.mywild.app" target="_blank"><img src="https://github.com/wildcatstudios/Fuel-My-Dreams/assets/19895356/49813501-5ba5-4985-9aee-fa8bb2557435" alt="Download from the google play store" class="github"></a>
+
 
 - ZERO Commissions: 
 While other platforms take a commission your own money, we take 0% from creators like you - every payment goes directly to you
